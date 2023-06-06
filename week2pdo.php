@@ -3,7 +3,7 @@ $host = 'localhost';
 $db   = 'winkels';
 $user = 'username';
 $pass = 'password';
-$charset = 'tre1l39';
+$charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 $options = [
